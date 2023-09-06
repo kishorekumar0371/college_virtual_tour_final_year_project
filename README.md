@@ -16,3 +16,4 @@ the virtual tour is a solution. So we make the virtual tour with
 unique voice assistant facility on the concept of IoT technology
 which will provide the information regarding the place where the
 visitor will enter for visit by the help of VR Headset.
+HTC VIVE
